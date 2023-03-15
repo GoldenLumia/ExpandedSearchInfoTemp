@@ -4,7 +4,7 @@
         "Name": "Expanded Search Info (temp update)",
         "Punchline": "Displays extra information pulled from search info when examining.",
         "Description": "Displays extra information pulled from search info when examining. Support for:\nAny plain text URL\nPastebin.com\ncarrd.co/crd.co\nF-List\nRefsheet\nSimply examine someone with a search info containing pointers to one of these locations and the plugin will display information automatically.",
-        "InternalName": "ExpandedSearchInfo",
+        "InternalName": "ExpandedSearchInfoTemp",
         "AssemblyVersion": "1.3.11",
         "RepoUrl": "https://github.com/GoldenLumia/ExpandedSearchInfoTemp",
         "ApplicableVersion": "any",
