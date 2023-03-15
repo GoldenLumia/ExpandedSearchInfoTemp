@@ -1,0 +1,21 @@
+﻿name: Expanded Search Info (temp update)
+author: ascclemens & GoldenLumia
+punchline: Displays extra information pulled from search info when examining.
+description: |-
+  Displays extra information pulled from search info when examining.
+
+  Support for:
+  - Any plain text URL
+  - Pastebin.com
+  - carrd.co/crd.co
+  - F-List
+  - Refsheet
+
+  Simply examine someone with a search info containing pointers to one of
+  these locations and the plugin will display information automatically.
+
+  Icon: expand by Gregor Cresnar from the Noun Project
+repo_url: https://github.com/GoldenLumia/ExpandedSearchInfoTemp
+icon_url: https://github.com/GoldenLumia/ExpandedSearchInfoTemp/blob/main/icon.png
+changelog: |-
+  - AAAAAAAAAAAAAAA
